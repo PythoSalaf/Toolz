@@ -1,0 +1,7 @@
+export { default as About } from './About/About'
+export { default as BgRemover } from './BgRemover/BgRemover'
+export { default as Contact } from './Contact/Contact'
+export { default as Login } from './Login/Login'
+export { default as Signup } from './SignUp/Signup'
+export { default as LinkShort } from './URL-Shortner/LinkShort'
+export { default as Youtube } from './YoutubeDonwload/Youtube'
