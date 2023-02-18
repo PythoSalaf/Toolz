@@ -1,3 +1,7 @@
 export { default as Navbar } from './Navbar'
 export { default as ErrorPage } from './ErrorPage'
+export { default as Subscribe } from './Subscribe'
 export { default as Footer } from './Footer'
+export { default as ForgetPassword } from './ForgetPassword'
+export { default as NewPassword } from './NewPassword'
+export { default as SharedLayout } from './SharedLayout'
