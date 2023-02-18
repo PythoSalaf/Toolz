@@ -83,7 +83,7 @@ const Container = styled.ul`
     margin: 0 1.2rem 0 0;
     .activeLink {
     color: white;
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 500;
     border-bottom: 3px solid #f4f4f4;
     text-decoration: none;
@@ -92,7 +92,7 @@ const Container = styled.ul`
   }
   .normalLink {
     color: white;
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 500;
     text-decoration: none;
     padding: 0 0 5px 0;
